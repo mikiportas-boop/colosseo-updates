@@ -1,6 +1,6 @@
 {
-  "versionCode": 1,
-  "versionName": "1.0",
-  "apkUrl": "",
-  "changelog": ""
+  "versionCode": 2,
+  "versionName": "1.1",
+  "apkUrl": "https://github.com/mikiportas-boop/colosseo-updates/releases/download/v1.1/app-release.apk",
+  "changelog": "- Navigazione TV migliorata nelle categorie\n- Correzioni varie"
 }
