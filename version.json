@@ -1,6 +1,6 @@
 {
-  "versionCode": 3,
-  "versionName": "1.2",
-  "apkUrl": "https://github.com/mikiportas-boop/colosseo-updates/releases/download/v1.2/app-release.apk",
-  "changelog": "- Player ottimizzato per film, serie e live\n- Tasti avanti/indietro 10 secondi su film e serie\n- Diretta TV: controlli a scomparsa dopo 5 secondi\n- Navigazione col telecomando migliorata\n- Installazione aggiornamenti piu affidabile su Fire TV"
+  "versionCode": 4,
+  "versionName": "1.3",
+  "apkUrl": "https://github.com/mikiportas-boop/colosseo-updates/releases/download/v1.3/app-release.apk",
+  "changelog": "- Diretta TV: risolto OK che tornava alla lista invece di andare a schermo intero\n- Tasti proporzioni e schermo intero ora ben visibili in navigazione\n- Correzioni di stabilita"
 }
