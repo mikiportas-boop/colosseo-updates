@@ -1,6 +1,6 @@
 {
-  "versionCode": 4,
-  "versionName": "1.3",
-  "apkUrl": "https://github.com/mikiportas-boop/colosseo-updates/releases/download/v1.3/app-release.apk",
-  "changelog": "- Diretta TV: risolto OK che tornava alla lista invece di andare a schermo intero\n- Tasti proporzioni e schermo intero ora ben visibili in navigazione\n- Correzioni di stabilita"
+  "versionCode": 5,
+  "versionName": "1.4",
+  "apkUrl": "https://github.com/mikiportas-boop/colosseo-updates/releases/download/v1.4/app-release.apk",
+  "changelog": "- Logo dell'app ora visibile nella home dei box Android TV\n- Risolto problema icona mancante su alcuni box\n- Migliorata compatibilita con box TV\n- Correzioni di stabilita"
 }
