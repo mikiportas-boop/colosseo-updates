@@ -1,6 +1,6 @@
 {
-  "versionCode": 5,
-  "versionName": "1.4",
-  "apkUrl": "https://github.com/mikiportas-boop/colosseo-updates/releases/download/v1.4/app-release.apk",
-  "changelog": "- Logo dell'app ora visibile nella home dei box Android TV\n- Risolto problema icona mancante su alcuni box\n- Migliorata compatibilita con box TV\n- Correzioni di stabilita"
+  "versionCode": 6,
+  "versionName": "1.6",
+  "apkUrl": "https://github.com/mikiportas-boop/colosseo-updates/releases/download/v1.6/app-release.apk",
+  "changelog": "NOVITA 1.6:\n- App in italiano e tedesco: cambia lingua da Impostazioni\n- Con lingua tedesca: canali, film e serie DE in cima alle liste\n- Zapping in Diretta TV: su/giu cambiano canale a schermo intero\n- Loghi ufficiali per i canali tedeschi\n\nNEU IN 1.6:\n- App auf Italienisch und Deutsch: Sprache in den Einstellungen\n- Bei Deutsch: DE-Kanaele, Filme und Serien ganz oben\n- Zapping im Live TV: Hoch/Runter wechselt den Kanal im Vollbild\n- Offizielle Logos fuer deutsche Kanaele"
 }
