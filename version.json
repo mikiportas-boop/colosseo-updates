@@ -1,6 +1,6 @@
 {
-  "versionCode": 6,
-  "versionName": "1.6",
-  "apkUrl": "https://github.com/mikiportas-boop/colosseo-updates/releases/download/v1.6/app-release.apk",
-  "changelog": "NOVITA 1.6:\n- App in italiano e tedesco: cambia lingua da Impostazioni\n- Con lingua tedesca: canali, film e serie DE in cima alle liste\n- Zapping in Diretta TV: su/giu cambiano canale a schermo intero\n- Loghi ufficiali per i canali tedeschi\n\nNEU IN 1.6:\n- App auf Italienisch und Deutsch: Sprache in den Einstellungen\n- Bei Deutsch: DE-Kanaele, Filme und Serien ganz oben\n- Zapping im Live TV: Hoch/Runter wechselt den Kanal im Vollbild\n- Offizielle Logos fuer deutsche Kanaele"
+  "versionCode": 7,
+  "versionName": "1.7",
+  "apkUrl": "https://github.com/mikiportas-boop/colosseo-updates/releases/download/v1.7/app-release.apk",
+  "changelog": "NOVITA 1.7:\n- Navigazione col telecomando rivista in tutte le liste\n- Niente piu doppia evidenziazione: il bordo oro segue solo il cursore\n- Il cursore parte dal punto giusto: categorie, canale in onda, menu Home\n- In Diretta TV il canale in riproduzione e evidenziato in oro\n\nNEU IN 1.7:\n- Ueberarbeitete Fernbedienungs-Navigation in allen Listen\n- Keine doppelte Hervorhebung mehr: der goldene Rahmen folgt nur dem Cursor\n- Der Cursor startet an der richtigen Stelle: Kategorien, laufender Sender, Home-Menue\n- In Live TV wird der laufende Sender gold hervorgehoben"
 }
