@@ -1,6 +1,6 @@
 {
-  "versionCode": 7,
-  "versionName": "1.7",
-  "apkUrl": "https://github.com/mikiportas-boop/colosseo-updates/releases/download/v1.7/app-release.apk",
-  "changelog": "NOVITA 1.7:\n- Navigazione col telecomando rivista in tutte le liste\n- Niente piu doppia evidenziazione: il bordo oro segue solo il cursore\n- Il cursore parte dal punto giusto: categorie, canale in onda, menu Home\n- In Diretta TV il canale in riproduzione e evidenziato in oro\n\nNEU IN 1.7:\n- Ueberarbeitete Fernbedienungs-Navigation in allen Listen\n- Keine doppelte Hervorhebung mehr: der goldene Rahmen folgt nur dem Cursor\n- Der Cursor startet an der richtigen Stelle: Kategorien, laufender Sender, Home-Menue\n- In Live TV wird der laufende Sender gold hervorgehoben"
+  "versionCode": 8,
+  "versionName": "1.8",
+  "apkUrl": "https://github.com/mikiportas-boop/colosseo-updates/releases/download/v1.8/app-release.apk",
+  "changelog": "NOVITA 1.8:\n- Nuovo tasto Aggiorna in Home, accanto alla ricerca: ricarica canali, film e serie dal server\n- L'icona gira durante il caricamento e alla fine compare una conferma\n- Le liste restano visibili mentre si aggiornano; se il server non risponde restano quelle precedenti\n- I Preferiti in Home hanno ora un ordine fisso: canali, film, serie\n\nNEU IN 1.8:\n- Neue Aktualisieren-Schaltflaeche auf dem Home-Bildschirm neben der Suche: laedt Kanaele, Filme und Serien neu vom Server\n- Das Symbol dreht sich waehrend des Ladens, danach erscheint eine Bestaetigung\n- Die Listen bleiben waehrend der Aktualisierung sichtbar; antwortet der Server nicht, bleiben die bisherigen erhalten\n- Die Favoriten auf dem Home-Bildschirm haben jetzt eine feste Reihenfolge: Kanaele, Filme, Serien"
 }
